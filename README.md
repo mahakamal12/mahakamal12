@@ -1,0 +1,11 @@
+- 👋 Hi, I’m maha kamal
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Angular
+- 💞️ my technical skills
+                  - HTML 
+                  - CSS
+                  -JS
+                  -TS
+                  -Angular
+- 📫 contact me via mahakamalabdelsalam@gmail.com
+
